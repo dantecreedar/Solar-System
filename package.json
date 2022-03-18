@@ -1,0 +1,11 @@
+{
+  "name": "system",
+  "version": "1.0.0",
+  "description": "Solar system Orbit Planet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
